@@ -1,0 +1,111 @@
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\bin\Release\Cebuanizer.dll
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\bin\Release\Cebuanizer.pdb
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\bin\Release\com.pupccis.cebuanizer.apk
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\bin\Release\com.pupccis.cebuanizer-Signed.apk
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\bin\Release\Xamarin.Insights.dll
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\bin\Release\Xamarin.Insights.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\Cebuanizer.dll
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\Cebuanizer.pdb
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\android\bin\com.pupccis.cebuanizer.apk
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\values\strings.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-hdpi\icon.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-mdpi\icon.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-xhdpi\icon.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-xxhdpi\icon.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-xxxhdpi\icon.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\drawable\icon_large.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\drawable\icon_small.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\drawable\slogan.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\drawable\layoutbackground.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\startup.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\drawable\buttonmenustyle.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\menu.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\buttontap.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\game.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\dictionary.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\drawable\home.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\dictlistrow.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\cebuano_woman.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\phrases.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\phralistrow.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\cebuano_my_name_is_maya.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\R.cs.flag
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\uploadflags.txt
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\Cebuanizer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\values\attrs.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\drawable\coin_small.png
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\achievements.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\gametranslation.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\gamematching.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\gamefill.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\layout\gamefill2.xml
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_afternoon.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_day.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_evening.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_luck.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_morning.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\hello.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\i_dont.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\im_okay.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\my_name.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\name.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\no_see.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\understand.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\welcome.mp3
+C:\Users\admin\Documents\Projects\Cebuanizer\Cebuanizer\obj\Release\res\raw\where.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\bin\Release\Cebuanizer.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\bin\Release\Cebuanizer.pdb
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\bin\Release\com.pupccis.cebuanizer.apk
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\bin\Release\com.pupccis.cebuanizer-Signed.apk
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\bin\Release\Xamarin.Insights.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\bin\Release\Xamarin.Insights.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\Cebuanizer.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\Cebuanizer.pdb
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\bin\com.pupccis.cebuanizer.apk
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\values\strings.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-hdpi\icon.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-mdpi\icon.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-xhdpi\icon.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-xxhdpi\icon.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\mipmap-xxxhdpi\icon.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\drawable\icon_large.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\drawable\icon_small.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\drawable\slogan.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\drawable\layoutbackground.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\startup.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\drawable\buttonmenustyle.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\menu.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\buttontap.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\game.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\dictionary.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\drawable\home.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\dictlistrow.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\cebuano_woman.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\phrases.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\phralistrow.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\cebuano_my_name_is_maya.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\values\attrs.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\drawable\coin_small.png
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\achievements.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\gametranslation.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\gamematching.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\gamefill.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\layout\gamefill2.xml
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_afternoon.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_day.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_evening.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_luck.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\good_morning.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\hello.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\i_dont.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\im_okay.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\my_name.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\name.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\no_see.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\understand.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\welcome.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\res\raw\where.mp3
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\R.cs.flag
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\uploadflags.txt
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\Cebuanizer.dll.mdb
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\bin\Release\Cebuanizer.dll.mdb

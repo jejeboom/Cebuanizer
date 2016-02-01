@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.pupccis.cebuanizer">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:allowBackup="true" android:icon="@drawable/icon_small" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:label="Cebuanizer" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:label="Cebuanizer" android:noHistory="true" android:screenOrientation="portrait" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actStartUp">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="actMenu" android:screenOrientation="portrait" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actMenu" />
+    <activity android:label="actDictionary" android:noHistory="true" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actDictionary" />
+    <activity android:label="actGame" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actGame" />
+    <activity android:label="actPhrase" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actPhrases" />
+    <activity android:label="actGameTranslation" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actGameTranslation" />
+    <activity android:label="actGameMatching" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actGameMatching" />
+    <activity android:label="actGameFill" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actGameFill" />
+    <activity android:label="actGameFill2" android:name="md5ca0462fa56b624569aa2b69eecb179a7.actGameFill2" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.pupccis.cebuanizer.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.pupccis.cebuanizer" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

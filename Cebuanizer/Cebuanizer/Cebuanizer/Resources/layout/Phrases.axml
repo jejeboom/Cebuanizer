@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@drawable/layoutbackground">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:id="@+id/linearLayout1"
+        android:background="@drawable/layoutbackground">
+        <ImageView
+            android:src="@drawable/home"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/limgPHome"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="90"
+        android:id="@+id/linearLayout2">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout3">
+            <TextView
+                android:text="PHRASES"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:layout_width="0dp"
+                android:layout_weight="100"
+                android:layout_height="match_parent"
+                android:id="@+id/textView1"
+                android:gravity="center"
+                android:typeface="monospace"
+                android:textStyle="bold"
+                android:textColor="#fffbc02d"
+                android:textSize="40dp" />
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#000"
+            android:id="@+id/view1" />
+        <ListView
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/llstPhrases"
+            android:divider="#ffffff"
+            android:dividerHeight="2dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+    </LinearLayout>
+</LinearLayout>

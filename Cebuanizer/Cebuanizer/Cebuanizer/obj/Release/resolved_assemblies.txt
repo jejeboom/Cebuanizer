@@ -1,0 +1,11 @@
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\Cebuanizer.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\Mono.Android.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\mscorlib.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\System.Core.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\System.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\System.Xml.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\Xamarin.Insights.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\System.Data.dll
+C:\Users\maryjane\Downloads\SOFTENG REPORT\Cebuanizer\Cebuanizer\Cebuanizer\obj\Release\android\assets\System.Net.Http.dll

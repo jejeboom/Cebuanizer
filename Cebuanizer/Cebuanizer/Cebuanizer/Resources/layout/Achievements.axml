@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:foo="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:background="@drawable/layoutbackground">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:weightSum="100"
+        android:id="@+id/linearLayout1">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout2"
+            android:paddingLeft="20dp">
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/imageView1"
+                android:layout_gravity="center" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout2"
+            android:gravity="right">
+            <ImageView
+                android:src="@android:drawable/ic_menu_gallery"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:id="@+id/limgCoinIcon"
+                android:layout_gravity="center" />
+            <TextView
+                android:text="0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ltxtCoin"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                android:textColor="#fffdd835"
+                android:textColorHighlight="#ffffff00"
+                android:typeface="monospace"
+                android:paddingRight="10dp"
+                android:layout_gravity="center" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:id="@+id/imageView2"
+        android:padding="20dp" />
+    <TextView
+        android:text="Pepeng mataba"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:gravity="center"
+        android:id="@+id/textView1" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="30"
+        android:id="@+id/linearLayout3"
+        android:padding="20dp" />
+</LinearLayout>
